@@ -1,4 +1,4 @@
-# DATA SCIENCE AND BUSINESS ANALYTICS DOMAIN@TSF
+# DATA SCIENCE AND BUSINESS ANALYTICS DOMAIN@The Sparks Foundation
 TASK - 1: PREDICTION USING SUPERVISED ML - To predict the percentage of a student based on the no. of study hours per day.
 Dataset: http://bit.ly/w-data
 
